@@ -316,6 +316,56 @@ footer.fa-linkedin {
     color: #6a6a6a;
 
 }
+#formacioAcademica h2{
+    font-size: 24px;
+    font-weight: 400;
+    color: red;
+    
+}
+#formacioAcademica h3 {
+    font-size: 18px;
+    font-weight: 400;
+    color:#6a6a6a;
+
+}
+#formacioAcademica h4 {
+    font-size: 17px;
+    font-weight: 400;
+    color: red;
+
+}
+#formacioAcademica h5{
+    font-size:14px ;
+    font-weight: 400;
+    color: #6a6a6a;
+}
+#idioma{
+
+    background-color: #c9c0c0;
+}
+#idioma i{
+    font-size: 100px;
+    color: white;
+}
+
+#idioma .bg{
+    background-color: purple;
+    border-radius: 20px;
+
+}
+#idioma .bgw{
+    background-color: white;
+    border-radius: 20px;
+}
+#idioma h2{
+    font-size: 24px;
+    color: black;
+}
+#idioma h3{
+    font-size: 16px;
+    color: black;
+}
+
 
 .gris {
     -webkit-filter: grayscale(100%);
@@ -443,6 +493,7 @@ footer.fa-linkedin {
         border-radius: 8px;
 
     }
+    
 
     #contacto footer a,
     #index footer a {
@@ -454,6 +505,10 @@ footer.fa-linkedin {
     #contacto footer,
     #index footer {
         color: red;
+    }
+
+    #idioma i{
+        font-size: 70px;
     }
 
 
